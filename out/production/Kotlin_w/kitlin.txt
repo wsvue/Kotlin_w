@@ -1,0 +1,16 @@
+
+Program Elements
+
+When learning a new language, a proper language, like French, Spanish, etc., you'll probably start with parts of speech
+and the rules that govern them. It'd be easier to approach a language if we had some basic understanding of how its parts come
+together. A Kotlin program contains literals, variables, expression, keywords, and a whole lot of other things.
+****************
+
+Literals
+Kotlin provides literals for the basic types(numbers, character, Boolean, String).
+- int
+- double
+- string
+- char
+- bool (boolean)
+
